@@ -2,7 +2,7 @@
 <img align ="right" alt = "Coding" width="400" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.webp">
 <h3 align="center">I’m interested in software development, web technologies, and exploring new programming languages.</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **PERN Stack**
 
 - 📫 How to reach me **sahibjitsinghramgharia@gmail.com**
 
