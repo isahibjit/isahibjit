@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 What I’m Working On
-- Building scalable apps using **MERN** and **Spring Boot**
-- Diving into the **PERN Stack**
-- Enhancing real-world problem-solving skills through projects
+- Developing scalable applications using **MERN** and **Spring Boot**
+- Applying Agile practices as a **Scrum Master**
+- Solving real-world problems through robust backend and interactive frontend systems
 
 ---
 
@@ -28,7 +28,7 @@
   Responsive UI, JWT Auth, Cloudinary integration for fast loading | [Live](https://e-commerce-project-frontend-3h97.onrender.com)
 
 - **Fuel Agency Operation Suite**  
-  End-to-end system for inventory, billing, delivery (Spring Boot + Thymeleaf)
+  Full-stack inventory, billing & delivery management system with role-based access and printable invoices
 
 ---
 
@@ -42,8 +42,8 @@
 ---
 
 ### 📜 Certifications
-- Internship @ Infosys – Fuel Agency Operation App  
-- Udemy: Complete Full Stack Web Dev Bootcamp
+- Internship @ Infosys – Fuel Agency Operation Application  
+- Udemy: Complete Full Stack Web Development Bootcamp
 
 ---
 
