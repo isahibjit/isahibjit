@@ -1,18 +1,74 @@
 <h1 align="center">Hi 👋, I'm Sahibjit Singh</h1>
-<img align ="right" alt = "Coding" width="400" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.webp">
-<h3 align="center">I’m interested in software development, web technologies, and exploring new programming languages.</h3>
+<p align="center">
+  <img src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.webp" alt="Coding" width="400"/>
+</p>
+<h3 align="center">Full Stack Developer | MERN & Spring Boot | Passionate About Building Fast, Reliable, and Scalable Web Apps</h3>
 
-- 🌱 I’m currently learning **PERN Stack**
+---
 
-- 📫 How to reach me **sahibjitsinghramgharia@gmail.com**
+🔗 **Portfolio**: [sahibjit-singh.lovable.app](https://sahibjit-singh.lovable.app)  
+📫 **Email**: sahibjitsinghramgharia@gmail.com  
+💼 **Resume**: [View Projects and Experience](https://res.cloudinary.com/sunnysingh78376/image/upload/v1751477003/Resume_-_13_July_yjkbo3.jpg)  
+⚡ **Fun Fact**: I speak multiple languages fluently, including English with a strong American accent — it surprises people every time!
 
-- ⚡ Fun fact **I can speak multiple languages fluently, including English with a strong American accent, which surprises a lot of people!**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 What I’m Working On
+- Building scalable apps using **MERN** and **Spring Boot**
+- Diving into the **PERN Stack**
+- Enhancing real-world problem-solving skills through projects
+
+---
+
+### 👨‍💻 Projects
+- **SmartLynk – AI Chat App**  
+  Real-time messaging with AI reply suggestions and typing indicators | [Live](https://smartlynk-frontend.onrender.com)
+
+- **Extrobuy – E-Commerce Platform**  
+  Responsive UI, JWT Auth, Cloudinary integration for fast loading | [Live](https://e-commerce-project-frontend-3h97.onrender.com)
+
+- **Fuel Agency Operation Suite**  
+  End-to-end system for inventory, billing, delivery (Spring Boot + Thymeleaf)
+
+---
+
+### 🧠 Skills & Tools
+
+**Frontend**: React.js, Redux, JavaScript, Tailwind CSS  
+**Backend**: Node.js, Express.js, Spring Boot, Java  
+**Database**: PostgreSQL, MongoDB, MySQL  
+**Others**: Docker, Git, Cloudinary, REST APIs, Socket.io, JWT
+
+---
+
+### 📜 Certifications
+- Internship @ Infosys – Fuel Agency Operation App  
+- Udemy: Complete Full Stack Web Dev Bootcamp
+
+---
+
+### 📬 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/sahibjit-singh748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahibjit-singh748" height="30" width="40" /></a>
-<a href="https://instagram.com/liljat46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liljat46" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sahibjitcs" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/liljat46" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
